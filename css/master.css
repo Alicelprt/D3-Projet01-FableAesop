@@ -1,0 +1,134 @@
+header {
+  min-height: 100vh;
+  padding: 1em;
+  background-color:#4d4d4d;
+  color: #ffffff;
+/* display en flexbox pour centrer */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+#fable01 {
+  min-height: 50vh;
+  padding: 30px;
+  background-color: #669966;
+  color: #003366;
+  text-align: center;
+}
+
+#fable01 p{
+  margin-left: 300px;
+  margin-right: 300px;
+  text-align: justify;
+  color: #ffffff
+}
+#fable01 h2 {
+  color: #446600
+}
+
+#fable00 {
+  min-height: 100vh;
+  padding: 85px;
+  background: #debab1 url('images/illustration.jpg') top center no-repeat;
+background-size: cover;
+background-size: cover;
+background-attachment: fixed;
+overflow: hidden;
+
+}
+#fable02 {
+  min-height: 50vh;
+  padding: 30px;
+  background-color: #ffcb3e;
+  color: #003366;
+  text-align: center;
+  color: #ffffff
+
+}
+#fable02 p {
+  margin-left: 300px;
+  margin-right: 300px;
+  text-align: justify;
+}
+
+#fable02 h3{
+  font-size: 50px;
+color: #e6b800
+
+}
+
+#fable02 p {
+  font-size: 20px;
+
+}
+
+#fable03 {
+  min-height: 80vh;
+  padding: 1em;
+  background-color:#ff531a;
+  color: #003366;
+  text-align: center;
+}
+
+#fable03 p {
+
+  margin-left: 300px;
+  margin-right: 300px;
+  text-align: justify;
+  color: #ffffff
+}
+
+#fable03 h4{
+  font-size: 50px;
+  color: #e63900
+}
+
+#fable03 p {
+  font-size: 20px;
+}
+
+#fable01 figure img {
+  width: 200px;
+  position: absolute;
+  left: 0px;
+  bottom: 160px;
+  top: 20px
+}
+
+.fleur2 {
+  width: 200px;
+  position: absolute;
+  right: 30px;
+  bottom: 160px;
+  top: 20px
+}
+#fable02 .text-content {
+  background: #e6b800;
+margin-right : 100px;
+margin-left : 100px;
+top: 90px;
+bottom: 90px;
+}
+
+.fleur3 {
+  width: 200px;
+  position: absolute;
+  right: 30px;
+  bottom: 160px;
+  top: 3700px
+}
+.fleur4 {
+  width: 200px;
+  position: absolute;
+  left: 0px;
+  bottom: 160px;
+  top: 3700px
+}
+.lion {
+
+
+  right: 50px;
+  bottom: 160px;
+  top: 3200px
+}
